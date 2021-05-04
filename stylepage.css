@@ -10,11 +10,15 @@ body
 {
 background-color:white;
 }
+.headfixed{
+position: fixed;
+
+}
 #container
 {
 
 
-width:65%;
+width:100%;
 margin:0px auto;
 }
 #header
@@ -46,7 +50,8 @@ font-size:20px;
 }
 #banner img
 {
-width:100%;
+width:60%;
+padding:20%;
 height:500px;
 padding-bottom:25px;
 
